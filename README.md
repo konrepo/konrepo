@@ -2,7 +2,7 @@
 <h3 align="center">Available on Kodi, Stremio, and Nuvio</h3>
 
 <p align="center">
-  🌐 Main page for KhmerDub on Stremio and Nuvio<br><br>
+  🌐 Main page for <b>KhmerDub</b>:<br><br>
 
   <a href="https://khmerdrama.onrender.com/" target="_blank">
     khmerdrama.onrender.com
