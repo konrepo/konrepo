@@ -1,5 +1,5 @@
 <h2 align="center">🎬 The one and only KhmerDub</h2>
-<h3 align="center">Available on Kodi, Stremio, and Nuvio</h3>
+<h3 align="center">Available on Kodi, Stremio, VortX, and Nuvio</h3>
 
 <p align="center">
   🌐 Main page for <b>KhmerDub</b>:<br><br>
